@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A0FD439F-91D7-4097-87C8-30BDCC91B71B</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FD91ED422FE04032FCF19EE769E5AD5225AFF152</key>
+		<string>https://chrisrisner.visualstudio.com/DefaultCollection/_git/AndroidContent</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FD91ED422FE04032FCF19EE769E5AD5225AFF152</key>
+		<string>AndroidContent/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://chrisrisner.visualstudio.com/DefaultCollection/_git/AndroidContent</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FD91ED422FE04032FCF19EE769E5AD5225AFF152</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FD91ED422FE04032FCF19EE769E5AD5225AFF152</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AndroidContent</string>
+		</dict>
+	</array>
+</dict>
+</plist>

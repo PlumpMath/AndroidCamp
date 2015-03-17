@@ -1,0 +1,6 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\code\winstorenotificationhubs\winstorenotificationhubs\winstorenotificationhubs.windows\obj\debug\intermediatexaml\winstorenotificationhubs.windows.exe" HashGuid="67fc5e2b-3187-277e-71bb-16a46c767d54" />
+    <ReferenceAssembly PathName="c:\code\winstorenotificationhubs\packages\windowsazure.messaging.managed.0.1.7.9\lib\netcore45\microsoft.windowsazure.messaging.managed.dll" HashGuid="fc743b07-0e25-3384-ff82-3dec52ff762a" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
